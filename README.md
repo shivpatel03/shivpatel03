@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Welcome to my Portfolio
-Hello! I am Shiv, a fourth-year Software Engineering student at Ontario Tech University. I specialize in Web Development, with a keen interest in Operating Systems, Database Management Systems, Algorithms, Machine Learning, and Software Architecture. I am passionate about learning more about software development and leveraging technologies to create impactful solutions.
+Hello! I am Shiv, an incoming Software Developer at Lumenalta. I specialize in Web Development, with a keen interest in Operating Systems, Database Management Systems, Algorithms, Machine Learning, and Software Architecture. I am passionate about learning more about software development and leveraging technologies to create impactful solutions.
 
 ### Projects
 - **Full Stack Auto Trading Website**: A trading platform created using Tailwind, React, MySQL, Express, and AWS
