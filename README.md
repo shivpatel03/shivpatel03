@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### Welcome to my Portfolio
-Hello! I am Shiv, an Software Developer at Lumenalta. I specialize in Web Development, with a keen interest in Operating Systems, Database Management Systems, Algorithms, Machine Learning, and Software Architecture. I am passionate about learning more about software development and leveraging technologies to create impactful solutions.
+Hello! I am Shiv, an AI Developer at Venuiti Solutions Inc. I specialize in Web Development, with a keen interest in Operating Systems, Database Management Systems, Algorithms, Machine Learning, and Software Architecture. I am passionate about learning more about software development and leveraging technologies to create impactful solutions.
 
 ### Projects
 - **NBA Lineup Prediction Application**: A machine learning model to predict NBA Lineups, written in Python
